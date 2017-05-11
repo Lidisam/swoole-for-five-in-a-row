@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e821d221-9e4f-4591-9551-2f0835adf766" name="swoole五子棋" url="http://119.29.37.33">
+        <fileTransfer host="119.29.37.33" port="22" rootFolder="/data/wwwroot/default/fiveQi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
